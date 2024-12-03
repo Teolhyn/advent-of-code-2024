@@ -1,2 +1,6 @@
-# advent-of-code-2024
-# advent-of-code-2024
+# Advent of Code 2024 🎄
+
+1 🌟🌟
+2 🌟
+3 🌟🌟
+
